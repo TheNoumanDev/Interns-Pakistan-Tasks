@@ -1,0 +1,1 @@
+Copy both file contents to jsfiddle files and then run it on the website and submit the URL.
